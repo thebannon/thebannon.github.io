@@ -1,1 +1,1 @@
-# thebannon.github.io
+# thebannon.com
