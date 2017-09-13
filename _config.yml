@@ -5,7 +5,7 @@ locale: en_US
 description: Streetfight the news.
 logo: bannon.png
 search: true
-url: http://localhost:4000
+url: thebannon.com
 
 # Jekyll configuration
 
